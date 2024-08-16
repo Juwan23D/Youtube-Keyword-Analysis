@@ -1,13 +1,13 @@
 # Youtube-Keyword-Analysis
 
 # North Star Metrics and Dimensions
-Keyword:
+Keyword: The keyword that brought the viewer to the video
 
-Video Likes:
+Video Likes: The amount of likes the video received.
 
-Video Views:
+Video Views: The amount of viewers viewed the video.
 
-Comments: 
+Comment Likes: The amount of likes the comment received.
 # Summary of Insights
 
 # Recommendations & Next Steps
