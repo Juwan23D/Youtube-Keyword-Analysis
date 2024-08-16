@@ -43,7 +43,7 @@ keyword with the most liked video "El Chombo - Dame Tu Cosita feat. Cutty Ranks 
 can help gauge a better understanding of what viewers are searching for, thus helping content creators or digital marketers understand the kind of content to produce.
 
 * Lofi had the highest average positive sentiment rate which was 1.83 and Mr.Beast was 10th with 1.65. This opens up doors of opportunity for content collaborations such as a lofi/ animal 
-or mr. beast/music piece of content. Generating a high positive sentiment shows what people are willing to spend their time on, and this feedback could open the door to new ideas. 
+or mr. beast/music piece of content. Generating a high positive sentiment shows what people are willing to go out of their way give a good interaction with, and this feedback could open the door to new ideas. 
 
 
 
