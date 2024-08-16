@@ -1,4 +1,4 @@
-
+![](https://github.com/Juwan23D/Youtube-Keyword-Analysis/blob/main/Dashboard%201%20(4)%20(1).png)
 
 # North Star Metrics and Dimensions
 **Keyword:** The keyword that brought the viewer to the video
