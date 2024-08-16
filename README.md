@@ -33,7 +33,7 @@ keyword with the most liked video "El Chombo - Dame Tu Cosita feat. Cutty Ranks 
 ### Top Liked Comments by Keyword:
 
 * The most liked comments came from the Mr beast category and the number 1 was ‘Like I said in the video, subscribe if you haven’t already and you could win $10,000!’ coming from Mr beast on the video ‘$456,000 Squid Game In Real Life!’.
-  Mr.Beast captured 8/10 of the top liked comments, indicating his influence has on his viewers.
+* Mr.Beast captured 8/10 of the top liked comments, indicating his influence has on his viewers.
 
 # Recommendations & Next Steps
 
