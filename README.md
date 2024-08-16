@@ -18,6 +18,10 @@ Thus creating new metrics such as Most viewed keyword, Most Liked Keyword, and T
 * The most viewed keywords showed what was involved in searching for their desired video. This revealed that google was seen the most with over 46 billion views, showcasing its importance in searches. Google was also the 
 keyword with the most liked video "El Chombo - Dame Tu Cosita feat. Cutty Ranks (Official Video) [Ultra Music]" which had 164,455,580 likes.
 
+* Second was animals with 19.74% (36 billion views).
+
+* Third was Mr. Beast 18.31% (33 billion views).
+
 ### Most Liked Keywords:
 
 * Mr.beast was involved in multiple videos and held the biggest share of likes with 42.14% (1,000,000,000+). 
@@ -29,6 +33,7 @@ keyword with the most liked video "El Chombo - Dame Tu Cosita feat. Cutty Ranks 
 ### Top Liked Comments by Keyword:
 
 * The most liked comments came from the Mr beast category and the number 1 was ‘Like I said in the video, subscribe if you haven’t already and you could win $10,000!’ coming from Mr beast on the video ‘$456,000 Squid Game In Real Life!’.
+  Mr.Beast captured 8/10 of the top liked comments, indicating his influence has on his viewers.
 
 # Recommendations & Next Steps
 
